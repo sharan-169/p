@@ -1,15 +1,1 @@
-#include<stdio.h>
-int main()
-{
-int i,n,sum;
-printf("enter the n value");
-scanf("%d",&n);
-if (i=0;i<n;i++)
-{
-sum=n+i;
-printf("the sum is: %d",sum);
-}
-else{
-printf("error");
-}
-}
+sharanabasava kandakur 
